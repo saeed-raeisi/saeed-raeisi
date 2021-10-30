@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there 👋 , I am Saeed Raeisi!
 
+![Github Follow](https://img.shields.io/github/followers/saeed-raeisi?style=social)
+
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="Django Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" width="50" height="50"/>
 <!--
 **saeed-raeisi/saeed-raeisi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
