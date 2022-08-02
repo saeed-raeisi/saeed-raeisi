@@ -3,7 +3,7 @@
 ![Github Follow](https://img.shields.io/github/followers/saeed-raeisi?style=social)
 
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" width="50" height="50"/>
+<img src="https://skillicons.dev/icons?i=django" alt="Django Logo" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=python" alt="Python Logo" width="50" height="50"/>
 
 
 ---
