@@ -15,22 +15,21 @@
 ---
 
 ## &#x1f4c8; My GitHub Stats
+<p align="center">
+   <table>
+      <tr>
+       <th>Profile stats  </th>
+       <th>Language Contribution</th>
+     </tr>
+      <tr>
+       <td><img alt="Devorein :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=saeed-raeisi&show_icons=true&theme=radical"> </td>
+       <td><img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeed-raeisi&langs_count=10&theme=merko&layout=compact&hide=html"> </td>
+   </table>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saeed-raeisi&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Saeed's GitHub stats](https://github-readme-stats.vercel.app/api?username=saeed-raeisi&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+---
 
+## I’m currently ...
 
-
-<!--
-**saeed-raeisi/saeed-raeisi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [odoo](https://github.com/odoo/odoo)
+- 🌱 I’m currently learning DevOps
