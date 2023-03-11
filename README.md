@@ -2,6 +2,10 @@
 
 ![Github Follow](https://img.shields.io/github/followers/saeed-raeisi?style=social)
 
+<p align="center">
+<img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="130">
+<br>
+
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saeed-raeisi-740886177) 
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saeed.raesi2020@gmail.com)
 
@@ -10,23 +14,20 @@
 <img alt="Javascript" src="https://img.icons8.com/color/50/000000/javascript.png" />
 <img alt="Xml" src="https://img.icons8.com/color/50/000000/xml.png" />
 
+<br/>
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
----
+![saeed-raeisi's stats](https://github-readme-stats.vercel.app/api?username=saeed-raeisi&count_private=true&show_icons=true&theme=material-palenight) 
+[![](https://github-readme-streak-stats.herokuapp.com/?user=saeed-raeisi&theme=material-palenight)](https://github.com/saeed-raeisi) 
 
-## &#x1f4c8; My GitHub Stats
-<p align="center">
-   <table>
-      <tr>
-       <th>Profile stats  </th>
-       <th>Language Contribution</th>
-     </tr>
-      <tr>
-       <td><img alt="Devorein :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=saeed-raeisi&show_icons=true&theme=radical"> </td>
-       <td><img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeed-raeisi&langs_count=10&theme=merko&layout=compact&hide=html"> </td>
-   </table>
+<table>
+  <h2>📊 Top Languages: </h2>
+    <tr>
+    <img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeed-raeisi&langs_count=10&theme=merko&layout=compact&hide=html">
+    </tr>
+</table>
+    NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of github-readme-stats.
 </p>
-
----
 
 ## I’m currently ...
 
